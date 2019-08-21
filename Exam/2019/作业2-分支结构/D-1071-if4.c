@@ -1,8 +1,5 @@
-#pragma warning(disable:4996)£» //¹Ø±Õscanf²»¿ÉÓÃµÄÌáÊ¾
-
-//ÒÔÏÂÎª´úÂëÕıÎÄ
-
-
+#pragma warning(disable:4996)ï¼› //å…³é—­scanfä¸å¯ç”¨çš„æç¤º
+//ä»¥ä¸‹ä¸ºä»£ç æ­£æ–‡
 
 #include <stdio.h>
 #include <math.h>
